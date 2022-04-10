@@ -36,7 +36,7 @@ spectral 0.22.4<br/>
 ## Usage
 1. Download this repository via git or download the [ZIP file](https://github.com/MaxtBIT/DTLP_PyTorch/archive/refs/heads/main.zip) manually.
 ```
-git clone https://github.com/MaxtBIT/DTLP_PyTorch.git
+git clone https://github.com/wang-lizhi/DTLP_Pytorch.git
 ```
 2. Download the [pre-trained models](https://drive.google.com/file/d/1Pk0SF6W4pXkLzgU6TCWuXs_5hN387ehM/view?usp=sharing) if you need.
 3. Make the datasets and place them in correct paths. Then, adjust the settings in **utils.py** according to your data.
